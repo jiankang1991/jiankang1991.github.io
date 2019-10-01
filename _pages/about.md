@@ -28,15 +28,8 @@ Activities
 
 
 
-Services
-======
-* Reviewer for IEEE Transactions on Geoscience and Romote Sensing
-* Reviewer for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-* Reviewer for IEEE Geoscience and Remote Sensing Letters
-* Reviewer for IEEE Access
-* Reviewer for Remote Sensing
-* Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing
-* Reviewer for international journal of geographical information science
+<!-- Services
+====== -->
 
 
 

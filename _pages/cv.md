@@ -8,33 +8,36 @@ redirect_from:
 ---
 
 {% include base_path %}
+<!-- [[PDF]]() -->
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Electronic and Information Engineering, Harbin Institute of Technology, 2013
+* M.Eng. in Electronic and Information Engineering, Harbin Institute of Technology, 2015
+* Dr.-Ing. in Signal Processing in Earth Observation (SiPEO), Technische Universität München, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-2019: Research Associate
+  * Technische Universität München
+  <!-- * Duties included: Tagging issues -->
+  * Supervisor: Prof. Xiaoxiang Zhu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* from 2019: Research Associate
+  * Technische Universität Berlin
+  <!-- * Duties included: Merging pull requests -->
+  * Advisor: Prof.Begüm Demir
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
+
+
 
 Publications
 ======
@@ -53,7 +56,19 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Projects
+======
+
+* [BigEarth](http://bigearth.net/) (ERC)
+* [So2Sat](http://www.so2sat.eu/) (ERC)
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for IEEE Transactions on Geoscience and Romote Sensing
+* Reviewer for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+* Reviewer for IEEE Geoscience and Remote Sensing Letters
+* Reviewer for IEEE Access
+* Reviewer for Remote Sensing
+* Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing
+* Reviewer for international journal of geographical information science
