@@ -57,6 +57,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Awards
+======
+* 1st place of best student paper award in EUSAR 2018
+
 Projects
 ======
 
