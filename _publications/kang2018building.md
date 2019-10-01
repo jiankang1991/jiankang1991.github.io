@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/kang2018building
 date: 2018-03-02
 venue: 'ISPRS journal of photogrammetry and remote sensing'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0924271618300352'
+# paperurl: 'https://www.sciencedirect.com/science/article/pii/S0924271618300352'
 citation: '<b>Jian Kang</b>, Marco Körner, Yuanyuan Wang, Hannes Taubenböck, Xiao Xiang Zhu. "Building instance classification using street view images". In ISPRS journal of photogrammetry and remote sensing, 2018.'
 authors: '<b>Jian Kang</b>, Marco Körner, Yuanyuan Wang, Hannes Taubenböck, Xiao Xiang Zhu'
 ---

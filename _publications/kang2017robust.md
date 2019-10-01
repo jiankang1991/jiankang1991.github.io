@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/kang2017robust
 date: 2017-05-11
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
-paperurl: 'https://ieeexplore.ieee.org/document/7926387'
+# paperurl: 'https://ieeexplore.ieee.org/document/7926387'
 citation: '<b>Jian Kang</b>, Yuanyuan Wang, Marco Körner, Xiao Xiang Zhu. "Robust object-based multipass InSAR deformation reconstruction". In IEEE Transactions on Geoscience and Remote Sensing, 2017.'
 authors: '<b>Jian Kang</b>, Yuanyuan Wang, Marco Körner, Xiao Xiang Zhu'
 ---
