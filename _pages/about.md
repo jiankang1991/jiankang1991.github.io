@@ -19,7 +19,7 @@ Activities
 <img src="../images/phd_defense.jpg" alt="drawing" width="300"/>
 </p>
 
-* [06/2018] Obtained 1st place of best student paper award in EUSAR 2018, with the paper of "Low Rank Modeling-based Multipass InSAR Technique"
+* [06/2018] Obtained 1st place of best student paper award in EUSAR 2018, with the paper of "**Low Rank Modeling-based Multipass InSAR Technique**"
 
 <p align="center">
 <img src="../images/EUSAR2018_Jian_Kang.jpg" alt="drawing" width="300"/>
