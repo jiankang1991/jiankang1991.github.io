@@ -30,14 +30,17 @@ Full Publications
 ### Journal paper:
 
 
-1. Wang, Yong, **Jian Kang**, and Yicheng Jiang. "ISAR imaging of maneuvering target based on the local polynomial Wigner distribution and integrated high-order ambiguity function for cubic phase signal model." *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 7.7 (2014): 2971-2991.
-2. Wang, Yong, Bin Zhao, and **Jian Kang**. "Asymptotic statistical performance of local polynomial Wigner distribution for the parameters estimation of cubic-phase signal with application in ISAR imaging of ship target." *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 8.3 (2014): 1087-1098.
-3. Wang, Yong, and **Jian Kang**. "Parameter estimation for rigid body after micro-Doppler removal based on L-statistics in the radar analysis." *Journal of Systems Engineering and Electronics* 26.3 (2015): 457-467.
+1. Wang, Y., **Kang, J.**, & Jiang, Y. (2014). ISAR imaging of maneuvering target based on the local polynomial Wigner distribution and integrated high-order ambiguity function for cubic phase signal model. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 7(7), 2971-2991.
+2. Wang, Y., Zhao, B., & **Kang, J**. (2014). Asymptotic statistical performance of local polynomial Wigner distribution for the parameters estimation of cubic-phase signal with application in ISAR imaging of ship target. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 8(3), 1087-1098.
+3. Wang, Y., & **Kang, J.** (2015). Parameter estimation for rigid body after micro-Doppler removal based on L-statistics in the radar analysis. *Journal of Systems Engineering and Electronics*, 26(3), 457-467.
 4. **Kang, J**., Wang, Y., Körner, M., & Zhu, X. X. (2017). Robust object-based multipass InSAR deformation reconstruction. *IEEE Transactions on Geoscience and Remote Sensing*, 55(8), 4239-4251.
 5. **Kang, J**., Wang, Y., Schmitt, M., & Zhu, X. X. (2018). Object-based multipass InSAR via robust low-rank tensor decomposition. *IEEE Transactions on Geoscience and Remote Sensing*, 56(6), 3062-3077.
 6. **Kang, J**., Körner, M., Wang, Y., Taubenböck, H., & Zhu, X. X. (2018). Building instance classification using street view images. *ISPRS journal of photogrammetry and remote sensing*, 145, 44-59.
 7. Zhang, B., Zhang, M., **Kang, J**., Hong, D., Xu, J., & Zhu, X. (2019). Estimation of PMx Concentrations from Landsat 8 OLI Images Based on a Multilayer Perceptron Neural Network. *Remote Sensing*, 11(6), 646.
 8. Hoffmann, E. J., Wang, Y., Werner, M., **Kang, J**., & Zhu, X. X. (2019). Model Fusion for Building Type Classification from Aerial and Street View Images. *Remote Sensing*, 11(11), 1259.
+9. Danfeng Hong, Jocelyn Chanussot, Naoto Yokoya, **Jian Kang**, Xiaoxiang Zhu. Learning Shared Cross-modality Representation Using Multispectral-LiDAR and Hyperspectral Data, *IEEE Geoscience and Remote Sensing Letters*, 2019. (Accepted)
+10. **Jian Kang**, Yuanyuan Wang, Xiaoxiang Zhu. Multipass SAR Interferometry Based on Total Variation Regularized Robust Low Rank Tensor Decomposition. *IEEE Transactions on Geoscience and Remote Sensing*, 2019. (in review) 
+
 
 ### Conference paper:
 
