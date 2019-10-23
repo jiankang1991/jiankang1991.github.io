@@ -10,6 +10,12 @@ redirect_from:
 
 Jian Kang (康健) is a Postdoc researcher at [RSiM](https://www.rsim.tu-berlin.de/menue/remote_sensing_image_analysis_group/) by [Technische Universität Berlin](https://www.tu-berlin.de/menue/home/), advised by [Prof.Begüm Demir](https://begumdemir.com/). His research interest includes signal processing and machine learning, especially their applications in remote sensing. He received Dr.-Ing. at [SiPEO](https://www.sipeo.bgu.tum.de/) by [Technische Universität München](https://www.tum.de/en/), 2019, supervised by [Prof.Dr.-Ing.habil.Xiaoxiang Zhu](https://www.sipeo.bgu.tum.de/team/zhu), and M.Eng. and B.Eng. in Electronic and Information Engineering, [Harbin Institute of Technology](http://en.hit.edu.cn/), 2015 and 2013, supervised by [Prof.Yong Wang](http://homepage.hit.edu.cn/wangyong6012).   
 
+<p align="left">
+<img src="../images/uni_profile_11441.jpg" alt="Snow" width="60">
+<img src="../images/technical-university-of-munich-tum-logo-vector.png" alt="Snow" width="100">
+<img src="../images/Logo_der_Technischen_Universität_Berlin.svg.png" alt="Snow" width="100">
+</p>
+
 Activities
 ======
 
