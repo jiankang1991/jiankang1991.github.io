@@ -36,7 +36,7 @@ Full Publications
 ### Journal paper:
 
 
-1. Wang, Y., **Kang, J.**, & Jiang, Y. (2014). ISAR imaging of maneuvering target based on the local polynomial Wigner distribution and integrated high-order ambiguity function for cubic phase signal model. <span style="background-color: #FFFF00">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</span>, 7(7), 2971-2991.
+1. Wang, Y., **Kang, J.**, & Jiang, Y. (2014). ISAR imaging of maneuvering target based on the local polynomial Wigner distribution and integrated high-order ambiguity function for cubic phase signal model. <span style="background-color: #d1d1d1"><p><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i></p></span>, 7(7), 2971-2991.
 2. Wang, Y., Zhao, B., & **Kang, J**. (2014). Asymptotic statistical performance of local polynomial Wigner distribution for the parameters estimation of cubic-phase signal with application in ISAR imaging of ship target. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 8(3), 1087-1098.
 3. Wang, Y., & **Kang, J.** (2015). Parameter estimation for rigid body after micro-Doppler removal based on L-statistics in the radar analysis. *Journal of Systems Engineering and Electronics*, 26(3), 457-467.
 4. **Kang, J**., Wang, Y., Körner, M., & Zhu, X. X. (2017). Robust object-based multipass InSAR deformation reconstruction. *IEEE Transactions on Geoscience and Remote Sensing*, 55(8), 4239-4251.
