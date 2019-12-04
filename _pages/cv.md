@@ -23,10 +23,10 @@ Work experience
   <!-- * Duties included: Tagging issues -->
   * Supervisor: Prof. Xiaoxiang Zhu
 
-* from 2019: Research Associate
+* from 2019: Post-doc Researcher
   * Technische Universität Berlin
   <!-- * Duties included: Merging pull requests -->
-  * Advisor: Prof.Begüm Demir
+  * Mentor: Prof.Begüm Demir
   
 <!-- Skills
 ======
