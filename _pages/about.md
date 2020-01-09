@@ -46,7 +46,7 @@ Full Publications
 8. Hoffmann, E. J., Wang, Y., Werner, M., **Kang, J**., & Zhu, X. X. (2019). Model Fusion for Building Type Classification from Aerial and Street View Images. <span style="background-color: #f2f2f2"><i>Remote Sensing</i></span>, 11(11), 1259.
 9. Danfeng Hong, Jocelyn Chanussot, Naoto Yokoya, **Jian Kang**, Xiaoxiang Zhu. Learning Shared Cross-modality Representation Using Multispectral-LiDAR and Hyperspectral Data, <span style="background-color: #f2f2f2"><i>IEEE Geoscience and Remote Sensing Letters</i></span>, 2019. (Accepted)
 10. **Jian Kang**, Yuanyuan Wang, Xiaoxiang Zhu. Multipass SAR Interferometry Based on Total Variation Regularized Robust Low Rank Tensor Decomposition. <span style="background-color: #f2f2f2"><i>IEEE Transactions on Geoscience and Remote Sensing</i></span>, 2019. (Accepted) 
-
+11. Xiao Xiang Zhu, Jingliang Hu, Chunping Qiu, Yilei Shi, **Jian Kang**, Lichao Mou, Hossein Bagheri, Matthias Häberle, Yuansheng Hua, Rong Huang, Lloyd Hughes, Hao Li, Yao Sun, Guichen Zhang, Shiyao Han, Michael Schmitt, Yuanyuan Wang, So2Sat LCZ42: A Benchmark Dataset for Global Local Climate Zones Classification. <span style="background-color: #f2f2f2"><i>IEEE Geoscience and Remote Sensing Magazine</i></span>, 2019. (Accepted)
 
 ### Conference paper:
 
