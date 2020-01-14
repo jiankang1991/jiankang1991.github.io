@@ -31,6 +31,8 @@ Activities
 <img src="../images/EUSAR2018_Jian_Kang.jpg" alt="drawing" width="300"/>
 </p>
 
+
+<!-- 
 Full Publications
 ======
 ### Journal paper:
@@ -65,7 +67,7 @@ Full Publications
 7. **Kang, Jian**, Yuanyuan Wang, and Xiao Xiang Zhu. "Low Rank Modeling based Multipass InSAR technique." EUSAR 2018; *12th European Conference on Synthetic Aperture Radar*. VDE, 2018.
 8. Shi, Y., Wang, Y., **Kang, J**., Lachaise, M., Zhu, X. X., & Bamler, R. (2018, June). 3D Reconstruction from Very Small TanDEM-X Stacks. In EUSAR 2018; *12th European Conference on Synthetic Aperture Radar* (pp. 1-4). VDE.
 9. **Kang, Jian**, Yuanyuan Wang, and Xiao Xiang Zhu. "Multi-Pass SAR Interferometry for 3D Reconstruction of Complex Mountainous Areas Based on Robust Low Rank Tensor Decomposition." IGARSS 2018-2018 *IEEE International Geoscience and Remote Sensing Symposium*. IEEE, 2018.
-10. Wang, Yuanyuan, **Jian Kang**, and Xiao Xiang Zhu. "Fusing Spaceborne SAR Interferometry and Street View Images for 4D Urban Modeling." 2018 *21st International Conference on Information Fusion (FUSION)*. IEEE, 2018.
+10. Wang, Yuanyuan, **Jian Kang**, and Xiao Xiang Zhu. "Fusing Spaceborne SAR Interferometry and Street View Images for 4D Urban Modeling." 2018 *21st International Conference on Information Fusion (FUSION)*. IEEE, 2018. -->
 
 
 <!-- Services
