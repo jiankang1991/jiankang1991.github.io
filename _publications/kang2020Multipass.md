@@ -8,6 +8,7 @@ venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 citation: '<b>Jian Kang</b>, Yuanyuan Wang, Xiao Xiang Zhu. "Multipass SAR Interferometry Based on Total Variation Regularized Robust Low Rank Tensor Decomposition". In IEEE Transactions on Geoscience and Remote Sensing, 2020.'
 authors: '<b>Jian Kang</b>, Yuanyuan Wang, Xiao Xiang Zhu'
 ---
+<!-- ###### Jingqing Zhang and Piyawat Lertvittayakumjorn contributed equally to this project. -->
 
 [Paper link](https://ieeexplore.ieee.org/document/8985534)
 
