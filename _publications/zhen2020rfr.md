@@ -5,8 +5,8 @@ permalink: /publication/kang2020rfr
 date: 2020-07-09
 venue: 'Remote Sensing'
 # paperurl: 'https://ieeexplore.ieee.org/document/7926387'
-citation: 'Zhen Ye, <b>Jian Kang*<b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng Xu, Xiaohua Tong. "Robust Fine Registration of Multisensor Remote Sensing Images Based on Enhanced Subpixel Phase Correlation". In Sensors, 2020.'
-authors: 'Zhen Ye, <b>Jian Kang*<b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng Xu, Xiaohua Tong'
+citation: 'Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng Xu, Xiaohua Tong. "Robust Fine Registration of Multisensor Remote Sensing Images Based on Enhanced Subpixel Phase Correlation". In Sensors, 2020.'
+authors: 'Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng Xu, Xiaohua Tong'
 ---
 
 <!-- ###### Jingqing Zhang and Piyawat Lertvittayakumjorn contributed equally to this project. -->
