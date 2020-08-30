@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jian Kang (康健) / Dr.-Ing."
 title_separator          : "-"
 name                     : &name "Jian Kang"
-description              : &description "Postdoc researcher at RSiM by TU-Berlin"
+description              : &description "Postdoc researcher at TU-Berlin"
 url                      : https://jiankang1991.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiankang1991/jiankang1991.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr.-Ing.Jian Kang (康健) "
   avatar           : "jiankang.jpg"
-  bio              : "Postdoc researcher at RSiM by TU-Berlin"
+  bio              : "Postdoc researcher at TU-Berlin"
   location         : "Berlin, Germany"
   employer         : "TU-Berlin"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=LuacQi4AAAAJ&hl=en"
   email            : "jian.kang@tu-berlin.de"
-  researchgate     :  "https://www.researchgate.net/profile/Jian_Kang27"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :

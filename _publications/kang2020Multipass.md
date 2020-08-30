@@ -2,13 +2,14 @@
 title: "Multipass SAR Interferometry Based on Total Variation Regularized Robust Low Rank Tensor Decomposition"
 collection: publications
 permalink: /publication/kang2020Multipass
-# date: 
+date: 2020-02-06
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 # paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8303748'
 citation: '<b>Jian Kang</b>, Yuanyuan Wang, Xiao Xiang Zhu. "Multipass SAR Interferometry Based on Total Variation Regularized Robust Low Rank Tensor Decomposition". In IEEE Transactions on Geoscience and Remote Sensing, 2020.'
 authors: '<b>Jian Kang</b>, Yuanyuan Wang, Xiao Xiang Zhu'
 ---
 
+[Paper link](https://ieeexplore.ieee.org/document/8985534)
 
 ## Abstract
 Multipass SAR interferometry (InSAR) techniques based on meter-resolution spaceborne SAR satellites, such as
@@ -17,3 +18,14 @@ estimation. Based on that, this paper proposes a novel tensor decomposition meth
 recovering outlier-free InSAR stacks. We demonstrate that the filtered InSAR data stacks can greatly improve the accuracy of geophysical parameters estimated from real data. Moreover, this paper demonstrates for the first time in the community that tensor-decomposition-based methods can be beneficial for large-scale urban mapping problems using multipass InSAR. Two TerraSAR-X data stacks with large spatial areas demonstrate the
 promising performance of the proposed method.
 
+## Citation
+```
+@ARTICLE{kang2020multipass,
+  author={J. {Kang} and Y. {Wang} and X. X. {Zhu}},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Multipass SAR Interferometry Based on Total Variation Regularized Robust Low Rank Tensor Decomposition}, 
+  year={2020},
+  volume={58},
+  number={8},
+  pages={5354-5366},}
+```

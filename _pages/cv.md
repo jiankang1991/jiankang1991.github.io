@@ -59,6 +59,7 @@ Teaching
 
 Awards
 ======
+* Joint work "Sun Glint Removal of Hyperspectral Images via Texture-aware Total Variation" is selected as one of the 10 Student Paper Competition Finalists in IGARSS 2020
 * 1st place of best student paper award in EUSAR 2018
 
 Projects
@@ -69,10 +70,14 @@ Projects
 
 Service and leadership
 ======
+* Guest Editor of MDPI Remote Sensing Special Issue: [Geospatial Intelligence in Remote Sensing: Scene Perception, Semantic Interpretation, and Sensor Fusion](https://www.mdpi.com/journal/remotesensing/special_issues/Geospatial_Intelligence).
 * Reviewer for IEEE Transactions on Geoscience and Romote Sensing
+* Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing
+* Reviewer for Pattern Recognition
 * Reviewer for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 * Reviewer for IEEE Geoscience and Remote Sensing Letters
 * Reviewer for IEEE Access
+* Reviewer for IEEE Sensors Journal
+* Reviewer for Sensors
 * Reviewer for Remote Sensing
-* Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing
-* Reviewer for international journal of geographical information science
+* Reviewer for International Journal of Geographical Information Science
