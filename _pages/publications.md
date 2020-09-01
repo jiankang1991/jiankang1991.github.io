@@ -38,7 +38,7 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
 
 <b>[Object-based multipass InSAR via robust low-rank tensor decomposition](https://jiankang1991.github.io/publication/kang2018object)</b> <br> 
 <b>Jian Kang</b>, Yuanyuan Wang, Michael Schmitt, Xiao Xiang Zhu.
-<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2018.
+<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2018. <b><span style="color:red">[Featured as issue cover]</span></b>
 
 <b>[Robust object-based multipass InSAR deformation reconstruction](https://jiankang1991.github.io/publication/kang2017robust)</b> <br> 
 <b>Jian Kang</b>, Yuanyuan Wang, Marco Körner, Xiao Xiang Zhu.
