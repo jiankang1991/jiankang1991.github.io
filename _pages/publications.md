@@ -8,6 +8,10 @@ author_profile: true
 <b>Jian Kang</b>, Ruben Fernandez-Beltran, Danfeng Hong, Jocelyn Chanussot, Antonio Plaza.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2020.
 
+<b>[Graph-Induced Aligned Learning on Subspaces for Hyperspectral and Multispectral Data](https://jiankang1991.github.io/publication/hong2020gia)</b> <br> 
+Danfeng Hong, <b>Jian Kang*</b>, Naoto Yokoya, Jocelyn Chanussot.
+<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2020.
+
 <b>[Deep Unsupervised Embedding for Remotely Sensed Images Based on Spatially Augmented Momentum Contrast](https://jiankang1991.github.io/publication/kang2020due)</b> <br> 
 <b>Jian Kang</b>, Ruben Fernandez-Beltran, Puhong Duan, Sicong Liu, Antonio Plaza.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2020.
