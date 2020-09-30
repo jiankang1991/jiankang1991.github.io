@@ -71,14 +71,15 @@ Projects
 Service and leadership
 ======
 * Guest Editor of MDPI Remote Sensing Special Issue: [Geospatial Intelligence in Remote Sensing: Scene Perception, Semantic Interpretation, and Sensor Fusion](https://www.mdpi.com/journal/remotesensing/special_issues/Geospatial_Intelligence).
-* Reviewer for IEEE Transactions on Geoscience and Romote Sensing
-* Reviewer for ISPRS Journal of Photogrammetry and Remote Sensing
-* Reviewer for Pattern Recognition
-* Reviewer for IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-* Reviewer for IEEE Geoscience and Remote Sensing Letters
-* Reviewer for IEEE Access
-* Reviewer for IEEE Sensors Journal
-* Reviewer for Sensors
-* Reviewer for Remote Sensing
-* Reviewer for International Journal of Geographical Information Science
-* Reviewer for Engineering Optimization
+* Reviewer for the following journals or conferences:
+  * IEEE Transactions on Geoscience and Romote Sensing
+  * ISPRS Journal of Photogrammetry and Remote Sensing
+  * Pattern Recognition
+  * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  * IEEE Geoscience and Remote Sensing Letters
+  * IEEE Access
+  * IEEE Sensors Journal
+  * Sensors
+  * Remote Sensing
+  * International Journal of Geographical Information Science
+  * Engineering Optimization
