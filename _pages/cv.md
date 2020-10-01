@@ -6,16 +6,46 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<style>
+.page__content p {
+    margin: 0 0 0em;
+}
+p{
+    /*margin: 0;*/
+    /*padding: -30;*/
+    /*line-height: 15px;*/
+}
+/* a{
+	color:#7c1313;
+} */
+ul{
+    /*margin: 0;*/
+    /*padding: -30;*/
+    line-height: 15px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+ul li, ol li {
+    margin-bottom: 0.em;
+}
+h1, h2, h3, h4, h5, h6 {
+	padding-bottom: 0.2em;
+	margin: 1em 0 0.5em;
+	border-bottom: 2px solid #f2f3f3;
+}
+</style>
 
 {% include base_path %}
 <!-- [[PDF]]() -->
-
+<small>
 Education
 ======
 * B.Eng. in Electronic and Information Engineering, Harbin Institute of Technology, 2013
 * M.Eng. in Electronic and Information Engineering, Harbin Institute of Technology, 2015
 * Dr.-Ing. in Signal Processing in Earth Observation (SiPEO), Technische Universität München, 2019
+</small>
 
+<small>
 Work experience
 ======
 * 2015-2019: Research Associate
@@ -27,7 +57,8 @@ Work experience
   * Technische Universität Berlin
   <!-- * Duties included: Merging pull requests -->
   * Mentor: Prof.Begüm Demir
-  
+</small>
+
 <!-- Skills
 ======
 * Skill 1
@@ -38,7 +69,7 @@ Work experience
 * Skill 3 -->
 
 
-
+<small>
 Selected Publications
 ======
   <ul>{% for post in site.publications %}
@@ -83,3 +114,4 @@ Service and leadership
   * Remote Sensing
   * International Journal of Geographical Information Science
   * Engineering Optimization
+</small>
