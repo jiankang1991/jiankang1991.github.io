@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 
 <br>
-* <small><span style="color:#235FE8">[Graph Relation Network: Modeling Relations between Scenes for Multi-Label Remote Sensing Image Classification and Retrieval](https://jiankang1991.github.io/publication/kang2020grn)</span><br> 
+* <small>[Graph Relation Network: Modeling Relations between Scenes for Multi-Label Remote Sensing Image Classification and Retrieval](https://jiankang1991.github.io/publication/kang2020grn)<br> 
 <b>Jian Kang</b>, Ruben Fernandez-Beltran, Danfeng Hong, Jocelyn Chanussot, Antonio Plaza.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2020.</small>
 
