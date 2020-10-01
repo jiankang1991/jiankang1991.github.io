@@ -3,6 +3,35 @@ title: "Selected publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+.page__content p {
+    margin: 0 0 0em;
+}
+p{
+    /*margin: 0;*/
+    /*padding: -30;*/
+    /*line-height: 15px;*/
+}
+/* a{
+	color:#7c1313;
+} */
+ul{
+    /*margin: 0;*/
+    /*padding: -30;*/
+    line-height: 15px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+ul li, ol li {
+    margin-bottom: 0.em;
+}
+h1, h2, h3, h4, h5, h6 {
+	padding-bottom: 0.2em;
+	margin: 1em 0 0.5em;
+	border-bottom: 2px solid #f2f3f3;
+}
+</style>
+</small>
 <br>
 <b>[Graph Relation Network: Modeling Relations between Scenes for Multi-Label Remote Sensing Image Classification and Retrieval](https://jiankang1991.github.io/publication/kang2020grn)</b> <br> 
 <b>Jian Kang</b>, Ruben Fernandez-Beltran, Danfeng Hong, Jocelyn Chanussot, Antonio Plaza.
@@ -51,6 +80,6 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
 <b>[Robust object-based multipass InSAR deformation reconstruction](https://jiankang1991.github.io/publication/kang2017robust)</b> <br> 
 <b>Jian Kang</b>, Yuanyuan Wang, Marco Körner, Xiao Xiang Zhu.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2017.
-
+</small>
 
 [\* denotes Corresponding author]
