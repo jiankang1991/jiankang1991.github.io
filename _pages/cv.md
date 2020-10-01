@@ -71,14 +71,13 @@ h1, h2, h3, h4, h5, h6 {
   * Sub-skill 2.3
 * Skill 3 -->
 
+<!-- <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
 
 
 <h2>Selected Publications</h2>
 
-
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 * <small>[Graph Relation Network: Modeling Relations between Scenes for Multi-Label Remote Sensing Image Classification and Retrieval](https://jiankang1991.github.io/publication/kang2020grn)<br> 
 <b>Jian Kang</b>, Ruben Fernandez-Beltran, Danfeng Hong, Jocelyn Chanussot, Antonio Plaza.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2020.</small>
@@ -127,7 +126,7 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
 <b>Jian Kang</b>, Yuanyuan Wang, Marco Körner, Xiao Xiang Zhu.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2017.</small>
 
-<h2>Talks</h2>
+<!-- <h2>Talks</h2>
 
 
   <small><ul>{% for post in site.talks %}
@@ -141,32 +140,32 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
 
   <small><ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul></small>
+  {% endfor %}</ul></small> -->
 
 
-Awards
+<h2>Awards</h2>
 
-* Joint work "Sun Glint Removal of Hyperspectral Images via Texture-aware Total Variation" is selected as one of the 10 Student Paper Competition Finalists in IGARSS 2020
-* 1st place of best student paper award in EUSAR 2018
+* <small>Joint work "Sun Glint Removal of Hyperspectral Images via Texture-aware Total Variation" is selected as one of the 10 Student Paper Competition Finalists in IGARSS 2020</small>
+* <small>1st place of best student paper award in EUSAR 2018</small>
 
-Projects
+<h2>Projects</h2>
 ======
 
-* [BigEarth](http://bigearth.net/) (ERC)
-* [So2Sat](http://www.so2sat.eu/) (ERC)
+* <small>[BigEarth](http://bigearth.net/) (ERC)</small>
+* <small>[So2Sat](http://www.so2sat.eu/) (ERC)</small>
 
 Service and leadership
 ======
-* Guest Editor of MDPI Remote Sensing Special Issue: [Geospatial Intelligence in Remote Sensing: Scene Perception, Semantic Interpretation, and Sensor Fusion](https://www.mdpi.com/journal/remotesensing/special_issues/Geospatial_Intelligence).
-* Reviewer for the following journals or conferences:
-  * IEEE Transactions on Geoscience and Romote Sensing
-  * ISPRS Journal of Photogrammetry and Remote Sensing
-  * Pattern Recognition
-  * IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-  * IEEE Geoscience and Remote Sensing Letters
-  * IEEE Access
-  * IEEE Sensors Journal
-  * Sensors
-  * Remote Sensing
-  * International Journal of Geographical Information Science
-  * Engineering Optimization
+* <small>Guest Editor of MDPI Remote Sensing Special Issue: [Geospatial Intelligence in Remote Sensing: Scene Perception, Semantic Interpretation, and Sensor Fusion](https://www.mdpi.com/journal/remotesensing/special_issues/Geospatial_Intelligence)</small>
+* <small>Reviewer for the following journals or conferences:</small>
+  * <small>IEEE Transactions on Geoscience and Romote Sensing</small>
+  * <small>ISPRS Journal of Photogrammetry and Remote Sensing</small>
+  * <small>Pattern Recognition</small>
+  * <small>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</small>
+  * <small>IEEE Geoscience and Remote Sensing Letters</small>
+  * <small>IEEE Access</small>
+  * <small>IEEE Sensors Journal</small>
+  * <small>Sensors</small>
+  * <small>Remote Sensing</small>
+  * <small>International Journal of Geographical Information Science</small>
+  * <small>Engineering Optimization</small>
