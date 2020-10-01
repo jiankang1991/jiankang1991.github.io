@@ -40,30 +40,27 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2> Education</h2> 
 
-<small>
 
-* B.Eng. in Electronic and Information Engineering, Harbin Institute of Technology, 2013
-* M.Eng. in Electronic and Information Engineering, Harbin Institute of Technology, 2015
-* Dr.-Ing. in Signal Processing in Earth Observation (SiPEO), Technische Universität München, 2019
+* <small>B.Eng. in Electronic and Information Engineering, Harbin Institute of Technology, 2013</small>
+* <small>M.Eng. in Electronic and Information Engineering, Harbin Institute of Technology, 2015</small>
+* <small>Dr.-Ing. in Signal Processing in Earth Observation (SiPEO), Technische Universität München, 2019</small>
 
-</small>
+
 
 
 <h2>Work experience</h2>
 
-<small>
 
-* 2015-2019: Research Associate
-  * Technische Universität München
+* <small>2015-2019: Research Associate</small>
+  * <small>Technische Universität München</small>
   <!-- * Duties included: Tagging issues -->
-  * Supervisor: Prof. Xiaoxiang Zhu
+  * <small>Supervisor: Prof. Xiaoxiang Zhu</small>
 
-* from 2019: Post-doc Researcher
-  * Technische Universität Berlin
+* <small>2019-2020: Post-doc Researcher</small>
+  * <small>Technische Universität Berlin</small>
   <!-- * Duties included: Merging pull requests -->
-  * Mentor: Prof.Begüm Demir
+  * <small>Mentor: Prof.Begüm Demir</small>
 
-</small>
 
 <!-- Skills
 ======
@@ -78,29 +75,28 @@ h1, h2, h3, h4, h5, h6 {
 
 <h2>Selected Publications</h2>
 
-<small>
 
-  <ul>{% for post in site.publications %}
+  <small><ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-</small>
+  {% endfor %}</ul></small>
+
 
 <h2>Talks</h2>
 
-<small>
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
-</small>
+  <small><ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul></small>
+
+
 
 <h2>Teaching</h2>
 
-<small>
-  <ul>{% for post in site.teaching %}
+
+  <small><ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-</small>
+  {% endfor %}</ul></small>
+
 
 Awards
 
