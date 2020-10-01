@@ -39,17 +39,20 @@ h1, h2, h3, h4, h5, h6 {
 <!-- [[PDF]]() -->
 
 <h2> Education</h2> 
-======
+
 <small>
+
 * B.Eng. in Electronic and Information Engineering, Harbin Institute of Technology, 2013
 * M.Eng. in Electronic and Information Engineering, Harbin Institute of Technology, 2015
 * Dr.-Ing. in Signal Processing in Earth Observation (SiPEO), Technische Universität München, 2019
+
 </small>
 
 
 <h2>Work experience</h2>
-======
+
 <small>
+
 * 2015-2019: Research Associate
   * Technische Universität München
   <!-- * Duties included: Tagging issues -->
@@ -59,6 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   * Technische Universität Berlin
   <!-- * Duties included: Merging pull requests -->
   * Mentor: Prof.Begüm Demir
+
 </small>
 
 <!-- Skills
@@ -73,29 +77,33 @@ h1, h2, h3, h4, h5, h6 {
 
 
 <h2>Selected Publications</h2>
-======
+
 <small>
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 </small>
 
 <h2>Talks</h2>
-======
+
 <small>
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
 </small>
 
 <h2>Teaching</h2>
-======
+
+<small>
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+</small>
 
 Awards
-======
+
 * Joint work "Sun Glint Removal of Hyperspectral Images via Texture-aware Total Variation" is selected as one of the 10 Student Paper Competition Finalists in IGARSS 2020
 * 1st place of best student paper award in EUSAR 2018
 
