@@ -8,6 +8,35 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__content p {
+    margin: 0 0 0em;
+}
+p{
+    /*margin: 0;*/
+    /*padding: -30;*/
+    /*line-height: 15px;*/
+}
+a{
+	color:#7c1313;
+}
+ul{
+    /*margin: 0;*/
+    /*padding: -30;*/
+    line-height: 15px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+ul li, ol li {
+    margin-bottom: 0.em;
+}
+h1, h2, h3, h4, h5, h6 {
+	padding-bottom: 0.2em;
+	margin: 1em 0 0.5em;
+	border-bottom: 2px solid #f2f3f3;
+}
+</style>
+
 Jian Kang (康健) is a Postdoc researcher with the Faculty of Electrical Engineering and Computer Science, by [Technische Universität Berlin](https://www.tu-berlin.de/menue/home/). His research interest includes signal processing and machine learning, especially their applications in remote sensing. He received Dr.-Ing. at [SiPEO](https://www.sipeo.bgu.tum.de/) by [Technische Universität München](https://www.tum.de/en/), 2019, supervised by [Prof.Dr.-Ing.habil.Xiaoxiang Zhu](https://www.sipeo.bgu.tum.de/team/zhu). From August to September of 2018, he was a guest researcher at [Institute of Computer Graphics and Vision (ICG)](https://www.tugraz.at/institutes/icg/home/), TU Graz, Graz, Austria. He received M.Eng. and B.Eng. in Electronic and Information Engineering, [Harbin Institute of Technology](http://en.hit.edu.cn/), 2015 and 2013, supervised by [Prof.Yong Wang](http://homepage.hit.edu.cn/wangyong6012).   
 
 <p align="left">
