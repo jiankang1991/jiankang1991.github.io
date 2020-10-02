@@ -9,7 +9,7 @@ citation: '<b>Jian Kang</b>, Ruben Fernandez-Beltran, Zhen Ye, Xiaohua Tong, Ant
 authors: '<b>Jian Kang</b>, Ruben Fernandez-Beltran, Zhen Ye, Xiaohua Tong, Antonio Plaza'
 ---
 
-[Paper link](https://ieeexplore.ieee.org/document/9173783)
+[Paper link](https://ieeexplore.ieee.org/document/9210177)
 
 [Github](https://https://github.com/jiankang1991/CDNE)
 
