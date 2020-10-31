@@ -44,7 +44,9 @@ h1, h2, h3, h4, h5, h6 {
 {% endfor %} -->
 
 <br>
+* <small> 基于深度度量学习技术的遥感场景图像语义信息建模, 第三届“城市遥感”学术研讨会, 上海, 2020.[PDF](https://jiankang1991.github.io/talks/基于深度度量学习技术的遥感场景图像语义信息建模+康健.pdf)  </small>
+* 
 * <small>Band-wise Multi-scale CNN Architecture for Remote Sensing Image Scene Classification, *Proceeding of the IEEE International Geoscience and Remote Sensing Symposium* (**IGARSS**), in Hawaii, USA, 2020. [PDF](https://jiankang1991.github.io/talks/IGARSS2020.pdf)/[PPT](https://jiankang1991.github.io/talks/IGARSS2020.pptx). </small>
 
-* <small> 基于深度度量学习技术的遥感场景图像语义信息建模, 第三届“城市遥感”学术研讨会, 上海, 2020.[PDF](https://jiankang1991.github.io/talks/基于深度度量学习技术的遥感场景图像语义信息建模+康健.pdf)  </small>
+
 
