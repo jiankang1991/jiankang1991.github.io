@@ -33,6 +33,11 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 
 <br>
+
+* <small>[Robust Normalized Softmax Loss for Deep Metric Learning-based Characterization of Remote Sensing Images with Label Noise](https://jiankang1991.github.io/publication/kang2020trnsl)<br>
+<b>Jian Kang</b>, Ruben Fernandez-Beltran, Puhong Duan, Xudong Kang, Antonio Plaza.
+<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2020.</small>
+
 * <small>[Graph Relation Network: Modeling Relations between Scenes for Multi-Label Remote Sensing Image Classification and Retrieval](https://jiankang1991.github.io/publication/kang2020grn)<br> 
 <b>Jian Kang</b>, Ruben Fernandez-Beltran, Danfeng Hong, Jocelyn Chanussot, Antonio Plaza.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2020.</small>
