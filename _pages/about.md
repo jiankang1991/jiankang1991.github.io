@@ -19,13 +19,15 @@ Jian Kang (康健) is a Postdoc researcher with the Faculty of Electrical Engine
 Activities
 ======
 
+* Served as the **Guest Editor** of MDPI Remote Sensing Special Issue: [Big Remotely Sensed Data](https://www.mdpi.com/journal/remotesensing/special_issues/big_remotely_sensed_data).
+  
 * [11/2020] 参加第三届“城市遥感”学术研讨会并做线上报告, 上海, 2020.
 
 * [06/2020] Served as the **Guest Editor** of MDPI Remote Sensing Special Issue: [Geospatial Intelligence in Remote Sensing: Scene Perception, Semantic Interpretation, and Sensor Fusion](https://www.mdpi.com/journal/remotesensing/special_issues/Geospatial_Intelligence).
 
-<p align="center">
+<!-- <p align="center">
 <img src="../images/Selection_001.png" alt="drawing" width="300"/>
-</p>
+</p> -->
 
 
 * [06/2020] Joint work "Sun Glint Removal of Hyperspectral Images via Texture-aware Total Variation" is selected as one of the **10 Student Paper Competition Finalists** in IGARSS 2020.
