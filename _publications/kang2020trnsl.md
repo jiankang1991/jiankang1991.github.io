@@ -2,14 +2,14 @@
 title: "Robust Normalized Softmax Loss for Deep Metric Learning-based Characterization of Remote Sensing Images with Label Noise"
 collection: publications
 permalink: /publication/kang2020trnsl
-date: 2020-12-03
+date: 2020-12-16
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 # paperurl: 'https://ieeexplore.ieee.org/document/7926387'
 citation: '<b>Jian Kang</b>, Ruben Fernandez-Beltran, Puhong Duan, Xudong Kang, Antonio Plaza. "Robust Normalized Softmax Loss for Deep Metric Learning-based Characterization of Remote Sensing Images with Label Noise". In IEEE Transactions on Geoscience and Remote Sensing, 2020.'
 authors: '<b>Jian Kang</b>, Ruben Fernandez-Beltran, Puhong Duan, Xudong Kang, Antonio Plaza'
 ---
 
-[Paper link]()
+[Paper link](https://ieeexplore.ieee.org/document/9296323)
 
 [Github](https://github.com/jiankang1991/RNSL)
 
