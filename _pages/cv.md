@@ -61,6 +61,9 @@ h1, h2, h3, h4, h5, h6 {
   <!-- * Duties included: Merging pull requests -->
   * <small>Mentor: Prof.Begüm Demir</small>
 
+* <small>2020-now: Associate Professor</small>
+  * <small>Soochow University</small>
+
 
 <!-- Skills
 ======

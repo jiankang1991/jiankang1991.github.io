@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jian Kang (康健) / Dr.-Ing."
 title_separator          : "-"
 name                     : &name "Jian Kang"
-description              : &description "Postdoc researcher at TU-Berlin"
+description              : &description "Associate Professor at Soochow University"
 url                      : https://jiankang1991.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiankang1991/jiankang1991.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr.-Ing.Jian Kang (康健) "
   avatar           : "jiankang.jpg"
-  bio              : "Postdoc researcher at TU-Berlin"
-  location         : "Berlin, Germany"
-  employer         : "TU-Berlin"
+  bio              : "Associate Professor at Soochow University"
+  location         : "Suzhou, China"
+  employer         : "Soochow University"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=LuacQi4AAAAJ&hl=en"
-  email            : "jian.kang@tu-berlin.de"
+  email            : "kangjian_1991@outlook.com"
   researchgate     :  
   uri              :
   bitbucket        :
