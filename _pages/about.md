@@ -14,6 +14,7 @@ Jian Kang (康健) is an Associate Professor with the School of Electronic and I
 <img src="../images/uni_profile_11441.jpg" alt="Snow" width="60">
 <img src="../images/technical-university-of-munich-tum-logo-vector.png" alt="Snow" width="100">
 <img src="../images/Logo_der_Technischen_Universität_Berlin.svg.png" alt="Snow" width="100">
+<img src="../images/Soochow_University_(Suzhou)_logo.png" alt="Snow" width="100">
 </p>
 
 Activities
