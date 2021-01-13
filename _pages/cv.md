@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   {% endfor %}</ul> -->
 
 
-<h2>Selected Publications</h2>
+<!-- <h2>Selected Publications</h2>
 
 * <small>[Graph Relation Network: Modeling Relations between Scenes for Multi-Label Remote Sensing Image Classification and Retrieval](https://jiankang1991.github.io/publication/kang2020grn)<br> 
 <b>Jian Kang</b>, Ruben Fernandez-Beltran, Danfeng Hong, Jocelyn Chanussot, Antonio Plaza.
@@ -127,7 +127,7 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
 
 * <small>[Robust object-based multipass InSAR deformation reconstruction](https://jiankang1991.github.io/publication/kang2017robust) <br> 
 <b>Jian Kang</b>, Yuanyuan Wang, Marco Körner, Xiao Xiang Zhu.
-<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2017.</small>
+<i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2017.</small> -->
 
 <!-- <h2>Talks</h2>
 
