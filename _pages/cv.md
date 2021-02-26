@@ -173,3 +173,4 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
   * <small>Remote Sensing</small>
   * <small>International Journal of Geographical Information Science</small>
   * <small>Engineering Optimization</small>
+  * <small>武汉大学学报（信息科学版）<small>
