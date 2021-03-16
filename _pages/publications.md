@@ -37,8 +37,8 @@ h1, h2, h3, h4, h5, h6 {
 <font face = "Times New Roman" size="3"> 
 <ul>
 
-<p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [1] <b>J. Kang</b>, R. Fernandez-Beltran, P. Duan, S. Liu and A. J. Plaza, "Deep Unsupervised Embedding for Remotely Sensed Images Based on Spatially Augmented Momentum Contrast," in <i>IEEE Transactions on Geoscience and Remote Sensing</i>, vol. 59, no. 3, pp. 2598-2610, March 2021, doi: 10.1109/TGRS.2020.3007029.[<a href="https://github.com/qzhang95/SGD-SM" target="_blank">Code</a>]
+<p style="text-indent: -1rem;margin-left: 0rem;">
+<span> [1] <b>J. Kang</b>, R. Fernandez-Beltran, P. Duan, S. Liu and A. J. Plaza, "Deep Unsupervised Embedding for Remotely Sensed Images Based on Spatially Augmented Momentum Contrast," in <i>IEEE Transactions on Geoscience and Remote Sensing</i>, vol. 59, no. 3, pp. 2598-2610, March 2021, doi: 10.1109/TGRS.2020.3007029.[<a href="" target="_blank">Code</a>]
 </span>
 </p>
 </ul>
