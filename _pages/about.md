@@ -20,6 +20,8 @@ Jian Kang (康健) is an Associate Professor with the School of Electronic and I
 Activities
 ======
 
+* [3/2021] Our paper "Building instance classification using street view images" is one of the most cited ISPRS P&RS paper since 2018.
+
 * [12/2020] Served as the **Guest Editor** of MDPI Remote Sensing Special Issue: [Big Remotely Sensed Data](https://www.mdpi.com/journal/remotesensing/special_issues/big_remotely_sensed_data).
   
 * [11/2020] 参加第三届“城市遥感”学术研讨会并做线上报告, 上海, 2020.
