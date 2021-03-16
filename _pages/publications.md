@@ -34,7 +34,16 @@ h1, h2, h3, h4, h5, h6 {
 
 <br>
 
-<font face = "Times New Roman"><small> [1] J. Kang, R. Fernandez-Beltran, P. Duan, S. Liu and A. J. Plaza, "Deep Unsupervised Embedding for Remotely Sensed Images Based on Spatially Augmented Momentum Contrast," in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 3, pp. 2598-2610, March 2021, doi: 10.1109/TGRS.2020.3007029.</font></small>
+<font face = "Times New Roman" size="3"> 
+<ul>
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [1] <b>J. Kang</b>, R. Fernandez-Beltran, P. Duan, S. Liu and A. J. Plaza, "Deep Unsupervised Embedding for Remotely Sensed Images Based on Spatially Augmented Momentum Contrast," in <i>IEEE Transactions on Geoscience and Remote Sensing</i>, vol. 59, no. 3, pp. 2598-2610, March 2021, doi: 10.1109/TGRS.2020.3007029.[<a href="https://github.com/qzhang95/SGD-SM" target="_blank">Code</a>]
+</span>
+</p>
+</ul>
+</font>
+
 1. <small>[Robust Normalized Softmax Loss for Deep Metric Learning-based Characterization of Remote Sensing Images with Label Noise](https://jiankang1991.github.io/publication/kang2020trnsl)<br>
 <b>Jian Kang</b>, Ruben Fernandez-Beltran, Puhong Duan, Xudong Kang, Antonio Plaza.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2020.</small>
