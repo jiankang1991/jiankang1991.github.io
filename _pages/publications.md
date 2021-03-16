@@ -34,8 +34,8 @@ h1, h2, h3, h4, h5, h6 {
 
 <br>
 
-1. <font face = "Times New Roman"><small>J. Kang, R. Fernandez-Beltran, P. Duan, S. Liu and A. J. Plaza, "Deep Unsupervised Embedding for Remotely Sensed Images Based on Spatially Augmented Momentum Contrast," in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 3, pp. 2598-2610, March 2021, doi: 10.1109/TGRS.2020.3007029.</font></small>
-2. <small>[Robust Normalized Softmax Loss for Deep Metric Learning-based Characterization of Remote Sensing Images with Label Noise](https://jiankang1991.github.io/publication/kang2020trnsl)<br>
+<font face = "Times New Roman"><small> [1] J. Kang, R. Fernandez-Beltran, P. Duan, S. Liu and A. J. Plaza, "Deep Unsupervised Embedding for Remotely Sensed Images Based on Spatially Augmented Momentum Contrast," in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 3, pp. 2598-2610, March 2021, doi: 10.1109/TGRS.2020.3007029.</font></small>
+1. <small>[Robust Normalized Softmax Loss for Deep Metric Learning-based Characterization of Remote Sensing Images with Label Noise](https://jiankang1991.github.io/publication/kang2020trnsl)<br>
 <b>Jian Kang</b>, Ruben Fernandez-Beltran, Puhong Duan, Xudong Kang, Antonio Plaza.
 <i>IEEE Transactions on Geoscience and Remote Sensing</i>. <b>TGRS</b>, 2020.</small>
 <small>[Graph Relation Network: Modeling Relations between Scenes for Multi-Label Remote Sensing Image Classification and Retrieval](https://jiankang1991.github.io/publication/kang2020grn)<br> 
