@@ -86,7 +86,7 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [6] <b>J. Kang</b>, R. Fernandez-Beltran, Z. Ye, X. Tong, P. Ghamisi and A. Plaza, "Deep Metric Learning Based on Scalable Neighborhood Components for Remote Sensing Scene Characterization," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, vol. 58, no. 12, pp. 8905-8918, Dec. 2020. [<a href="" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/SNCA_CE" target="_blank">Code</a>]
+<span> [6] <b>J. Kang</b>, R. Fernandez-Beltran, Z. Ye, X. Tong, P. Ghamisi and A. Plaza, "Deep Metric Learning Based on Scalable Neighborhood Components for Remote Sensing Scene Characterization," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, vol. 58, no. 12, pp. 8905-8918, Dec. 2020. [<a href="../files/SNCA_CE.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/SNCA_CE" target="_blank">Code</a>]
 </span>
 </p>
 
