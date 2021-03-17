@@ -44,13 +44,13 @@ br {
 <ul>
 
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [13] <b>J. Kang</b>, R. Fernandez-Beltran, P. Duan, X. Kang and A. J. Plaza, "Robust Normalized Softmax Loss for Deep Metric Learning-Based Characterization of Remote Sensing Images With Label Noise," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>. [<a href="./files/RNSL.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/RNSL" target="_blank">Code</a>]
+<span> [13] <b>J. Kang</b>, R. Fernandez-Beltran, P. Duan, X. Kang and A. J. Plaza, "Robust Normalized Softmax Loss for Deep Metric Learning-Based Characterization of Remote Sensing Images With Label Noise," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>. [<a href="../files/RNSL.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/RNSL" target="_blank">Code</a>]
 </span>
 </p>
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [12] <b>J. Kang</b>, R. Fernandez-Beltran, D. Hong, J. Chanussot and A. Plaza, "Graph Relation Network: Modeling Relations Between Scenes for Multilabel Remote-Sensing Image Classification and Retrieval," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>. [<a href="./files/SNDL.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/GRN-SNDL" target="_blank">Code</a>]
+<span> [12] <b>J. Kang</b>, R. Fernandez-Beltran, D. Hong, J. Chanussot and A. Plaza, "Graph Relation Network: Modeling Relations Between Scenes for Multilabel Remote-Sensing Image Classification and Retrieval," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>. [<a href="../files/SNDL.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/GRN-SNDL" target="_blank">Code</a>]
 </span>
 </p>
 
@@ -68,7 +68,7 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [9] <b>J. Kang</b>, R. Fernandez-Beltran, P. Duan, S. Liu and A. J. Plaza, "Deep Unsupervised Embedding for Remotely Sensed Images Based on Spatially Augmented Momentum Contrast," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, vol. 59, no. 3, pp. 2598-2610, March 2021. [<a href="./files/SauMoCo.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/SauMoCo" target="_blank">Code</a>]
+<span> [9] <b>J. Kang</b>, R. Fernandez-Beltran, P. Duan, S. Liu and A. J. Plaza, "Deep Unsupervised Embedding for Remotely Sensed Images Based on Spatially Augmented Momentum Contrast," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, vol. 59, no. 3, pp. 2598-2610, March 2021. [<a href="../files/SauMoCo.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/SauMoCo" target="_blank">Code</a>]
 </span>
 </p>
 
