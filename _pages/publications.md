@@ -104,7 +104,7 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [3] <b>J. Kang</b>, M. Körner, Y. Wang, H. Taubenböck, and X. X. Zhu, “Building instance classification using street view images,” in <i>ISPRS Journal of Photogrammetry and Remote Sensing (<b>ISPRS P&RS</b>) </i>, vol. 145, pp. 44-59, Nov. 2018. [<a href="https://reader.elsevier.com/reader/sd/pii/S0924271618300352?token=51107EF9A397A40C7D22BB8AF2E345BC6FAC46AF5568B135D3EBF6BE083C3196F08062619087CC16EAB0D7C6983434C1" target="_blank">PDF</a>] <b><font color="#FF0000">[Most cited ISPRS P&RS paper since 2018]</font></b>
+<span> [3] <b>J. Kang</b>, M. Körner, Y. Wang, H. Taubenböck, and X. X. Zhu, “Building instance classification using street view images,” in <i>ISPRS Journal of Photogrammetry and Remote Sensing (<b>ISPRS P&RS</b>) </i>, vol. 145, pp. 44-59, Nov. 2018. [<a href="https://reader.elsevier.com/reader/sd/pii/S0924271618300352?token=51107EF9A397A40C7D22BB8AF2E345BC6FAC46AF5568B135D3EBF6BE083C3196F08062619087CC16EAB0D7C6983434C1" target="_blank">PDF</a>] <b><font color="#FF0000">[Most cited ISPRS P&RS paper since 2018][ESI Highly Cited Paper]</font></b>
 </span>
 </p>
 
