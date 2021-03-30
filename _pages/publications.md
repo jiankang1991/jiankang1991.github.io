@@ -44,7 +44,7 @@ br {
 <ul>
 
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [14] <b>J. Kang</b>, R. Fernandez-Beltran, X. Kang, J. Ni and A. Plaza, "Noise-Tolerant Deep Neighborhood Embedding for Remotely Sensed Images With Label Noise," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>JSTARS</b>)</i>. [<a href="../files/NTDNE.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/NTDNE" target="_blank">Code</a>]
+<span> [14] <b>J. Kang</b>, R. Fernandez-Beltran, X. Kang, J. Ni and A. Plaza, "Noise-Tolerant Deep Neighborhood Embedding for Remotely Sensed Images With Label Noise," in <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</i> 14(2021) 2551-2562. [<a href="../files/NTDNE.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/NTDNE" target="_blank">Code</a>]
 </span>
 </p>
 
