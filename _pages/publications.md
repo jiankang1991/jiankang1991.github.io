@@ -48,16 +48,19 @@ br {
 </span>
 </p>
 
+<br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [15] R. Fernandez-Beltran, F. Pla, <b>J. Kang*</b>, J. F. Moreno and A. J. Plaza, "Sentinel-3/FLEX Biophysical Product Confidence using Sentinel-2 Land Cover Spatial Distributions," in <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</i> [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9376247" target="_blank">PDF</a>] 
 </span>
 </p>
 
+<br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [14] <b>J. Kang</b>, R. Fernandez-Beltran, X. Kang, J. Ni and A. Plaza, "Noise-Tolerant Deep Neighborhood Embedding for Remotely Sensed Images With Label Noise," in <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</i> 14(2021) 2551-2562. [<a href="../files/NTDNE.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/NTDNE" target="_blank">Code</a>]
 </span>
 </p>
 
+<br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [13] <b>J. Kang</b>, R. Fernandez-Beltran, P. Duan, X. Kang and A. J. Plaza, "Robust Normalized Softmax Loss for Deep Metric Learning-Based Characterization of Remote Sensing Images With Label Noise," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>. [<a href="../files/RNSL.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/RNSL" target="_blank">Code</a>]
 </span>
