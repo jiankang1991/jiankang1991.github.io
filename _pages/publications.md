@@ -44,6 +44,16 @@ br {
 <ul>
 
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [16] R. Fernandez-Beltran, B. Tina, <b>J. Kang*</b> and F. Pla, "Rice-Yield Prediction with Multi-Temporal Sentinel-2 Data and 3D CNN: A Case Study in Nepal," in <i>Remote Sensing (<b>RS</b>)</i> [<a href="https://www.mdpi.com/2072-4292/13/7/1391#cite" target="_blank">PDF</a>] 
+</span>
+</p>
+
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [15] R. Fernandez-Beltran, F. Pla, <b>J. Kang*</b>, J. F. Moreno and A. J. Plaza, "Sentinel-3/FLEX Biophysical Product Confidence using Sentinel-2 Land Cover Spatial Distributions," in <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</i> [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9376247" target="_blank">PDF</a>] 
+</span>
+</p>
+
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [14] <b>J. Kang</b>, R. Fernandez-Beltran, X. Kang, J. Ni and A. Plaza, "Noise-Tolerant Deep Neighborhood Embedding for Remotely Sensed Images With Label Noise," in <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</i> 14(2021) 2551-2562. [<a href="../files/NTDNE.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/NTDNE" target="_blank">Code</a>]
 </span>
 </p>
