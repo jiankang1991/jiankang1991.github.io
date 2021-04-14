@@ -48,6 +48,7 @@ br {
 </span>
 </p>
 
+<br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [16] R. Fernandez-Beltran, B. Tina, <b>J. Kang*</b> and F. Pla, "Rice-Yield Prediction with Multi-Temporal Sentinel-2 Data and 3D CNN: A Case Study in Nepal," in <i>Remote Sensing (<b>RS</b>)</i> [<a href="https://www.mdpi.com/2072-4292/13/7/1391#cite" target="_blank">PDF</a>] 
 </span>
