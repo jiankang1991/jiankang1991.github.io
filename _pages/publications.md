@@ -44,7 +44,7 @@ br {
 <ul>
 
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [17] <b>J. Kang</b>, R. Fernandez-Beltran, X. Sun, J. Ni and F. Pla, "Deep Learning-based Building Footprint Extraction with Missing Annotations," in <i> IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>)</i> [<a href="https://github.com/jiankang1991/BDSegMA" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/GRSL_BFE_MA" target="_blank">Code</a>]
+<span> [17] <b>J. Kang</b>, R. Fernandez-Beltran, X. Sun, J. Ni and F. Pla, "Deep Learning-based Building Footprint Extraction with Missing Annotations," in <i> IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>)</i> [<a href="../files/BDSegMA.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/GRSL_BFE_MA" target="_blank">Code</a>]
 </span>
 </p>
 
