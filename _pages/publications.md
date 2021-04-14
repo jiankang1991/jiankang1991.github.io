@@ -44,6 +44,11 @@ br {
 <ul>
 
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [17] <b>J. Kang</b>, R. Fernandez-Beltran, X. Sun, J. Ni and F. Pla, "Deep Learning-based Building Footprint Extraction with Missing Annotations," in <i> IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>)</i> [<a href="https://github.com/jiankang1991/BDSegMA" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/GRSL_BFE_MA" target="_blank">Code</a>]
+</span>
+</p>
+
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [16] R. Fernandez-Beltran, B. Tina, <b>J. Kang*</b> and F. Pla, "Rice-Yield Prediction with Multi-Temporal Sentinel-2 Data and 3D CNN: A Case Study in Nepal," in <i>Remote Sensing (<b>RS</b>)</i> [<a href="https://www.mdpi.com/2072-4292/13/7/1391#cite" target="_blank">PDF</a>] 
 </span>
 </p>
