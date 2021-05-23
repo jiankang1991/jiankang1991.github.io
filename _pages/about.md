@@ -20,6 +20,8 @@ Jian Kang (康健) is an Associate Professor with the School of Electronic and I
 Activities
 ======
 
+* [05/2021] Our IEEE TNNLS paper "Learning convolutional sparse coding on complex domain for interferometric phase restoration" has been selected as **ESI Highly Cited Paper**!
+  
 * [04/2021] Our IEEE JSTARS special issue "[Deep Learning-based Methods for Modeling Semantic Relations among Remote Sensing Data](https://4d8xuv2577wggnmowfwzehpo-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/CFP-Deep-Learning-based-Methods-for-Modeling-Semantic-Relations-among-Remote-Sensing-Data.pdf)" is available online!
 
 * [03/2021] Our paper "Building instance classification using street view images" is one of the **most cited** ISPRS P&RS paper since 2018.

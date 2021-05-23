@@ -116,7 +116,7 @@ br {
 
 <br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
-<span> [5] <b>J. Kang</b>, D. Hong, J. Liu, G. Baier, N. Yokoya and B. Demir, "Learning Convolutional Sparse Coding on Complex Domain for Interferometric Phase Restoration," in <i>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</i>, vol. 32, no. 2, pp. 826-840, Feb. 2021. [<a href="https://arxiv.org/pdf/2003.03440.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/ComCSC" target="_blank">Code</a>] 
+<span> [5] <b>J. Kang</b>, D. Hong, J. Liu, G. Baier, N. Yokoya and B. Demir, "Learning Convolutional Sparse Coding on Complex Domain for Interferometric Phase Restoration," in <i>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</i>, vol. 32, no. 2, pp. 826-840, Feb. 2021. [<a href="https://arxiv.org/pdf/2003.03440.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/ComCSC" target="_blank">Code</a>] <b><font color="#FF0000"> [ESI Highly Cited Paper]</font></b>
 </span>
 </p>
 
