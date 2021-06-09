@@ -44,6 +44,11 @@ br {
 <ul>
 
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [18] <b>J. Kang</b>, R. Fernandez-Beltran, Z. Wang, X. Sun, J. Ni and A. J. Plaza, "Rotation Invariant Deep Embedding for Remote Sensing Images," in <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i> [<a href="../files/RiDe.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/TGRS_RiDe" target="_blank">Code</a>]
+</span>
+</p>
+
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [17] <b>J. Kang</b>, R. Fernandez-Beltran, X. Sun, J. Ni and A. J. Plaza, "Deep Learning-based Building Footprint Extraction with Missing Annotations," in <i> IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>)</i> [<a href="../files/BDSegMA.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/GRSL_BFE_MA" target="_blank">Code</a>]
 </span>
 </p>
