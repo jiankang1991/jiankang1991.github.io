@@ -43,7 +43,12 @@ br {
 <font face = "Times New Roman" size="3"> 
 <ul>
 
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [19] <b>J. Kang</b>, R. Fernandez-Beltran, Z. Wang, X. Sun, J.Ni and A. J. Plaza, "Rotation Invariant Deep Embedding for Remote Sensing Images," <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i> [<a href="../files/RiDe.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/TGRS_RiDe" target="_blank">Code</a>]
+</span>
+</p>
 
+<br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [18] R. Fernandez, R. Fernandez-Beltran, <b>J. Kang</b> and F. Pla, "Sentinel-3 Super-Resolution based on Dense Multi-Receptive Channel Attention," <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</i> [<a href="https://ieeexplore.ieee.org/document/9488297" target="_blank">PDF</a>] 
 </span>

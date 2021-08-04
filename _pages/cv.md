@@ -158,15 +158,18 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
 
 <h2>Service and leadership</h2>
 
+* <small>Guest Editor of MDPI Remote Sensing Special Issue:[Unsupervised and Supervised Image Classification in Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/unsupervised_image_classification)</small>
 * <small>Guest Editor of IEEE JSTARS Special Issue:[Deep Learning-based Methods for Modeling Semantic Relations among Remote Sensing Data](https://4d8xuv2577wggnmowfwzehpo-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/CFP-Deep-Learning-based-Methods-for-Modeling-Semantic-Relations-among-Remote-Sensing-Data.pdf)</small>
 * <small>Review Editor in Radar Signal Processing Section, [Frontiers in Signal Processing](https://www.frontiersin.org/).</small>
 * <small>Guest Editor of MDPI Remote Sensing Special Issue: [Big Remotely Sensed Data](https://www.mdpi.com/journal/remotesensing/special_issues/big_remotely_sensed_data)</small>
 * <small>Guest Editor of MDPI Remote Sensing Special Issue: [Geospatial Intelligence in Remote Sensing: Scene Perception, Semantic Interpretation, and Sensor Fusion](https://www.mdpi.com/journal/remotesensing/special_issues/Geospatial_Intelligence)</small>
 * <small>Reviewer for the following journals or conferences:</small>
   * <small>IEEE Transactions on Neural Networks and Learning Systems</small>
+  * <small>IEEE Geoscience and Romote Sensing Magazine</small>
   * <small>IEEE Transactions on Geoscience and Romote Sensing</small>
   * <small>ISPRS Journal of Photogrammetry and Remote Sensing</small>
   * <small>Pattern Recognition</small>
+  * <small>International Journal of Applied Earth Observation</small>
   * <small>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</small>
   * <small>IEEE Geoscience and Remote Sensing Letters</small>
   * <small>IEEE Access</small>
