@@ -48,16 +48,19 @@ br {
 </span>
 </p>
 
+<br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [21] <b>J. Kang</b>, Z. Wang, R. Zhu, X. Sun, R. Fernandez-Beltran and A. J. Plaza, "PiCoCo: Pixelwise Contrast and Consistency Learning for Semisupervised Building Footprint Segmentation," <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</i> [<a href="https://ieeexplore.ieee.org/abstract/document/9566785" target="_blank">PDF</a>]
 </span>
 </p>
 
+<br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [20] R. Fernandez-Beltran, D. Ibañez, <b>J. Kang</b>, and F. Pla, "Time-Resolved Sentinel-3 Vegetation Indices Via Inter-Sensor 3-D Convolutional Regression Networks," <i>IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>)</i> [<a href="https://ieeexplore.ieee.org/document/9528501" target="_blank">PDF</a>]
 </span>
 </p>
 
+<br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [19] <b>J. Kang</b>, R. Fernandez-Beltran, Z. Wang, X. Sun, J.Ni and A. J. Plaza, "Rotation Invariant Deep Embedding for Remote Sensing Images," <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i> [<a href="../files/RiDe.pdf" target="_blank">PDF</a>] [<a href="https://github.com/jiankang1991/TGRS_RiDe" target="_blank">Code</a>]
 </span>
