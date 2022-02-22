@@ -44,6 +44,8 @@ h1, h2, h3, h4, h5, h6 {
 {% endfor %} -->
 
 <br>
+* <small> 少量观测样本下的多基线干涉SAR参数反演方法, 首届雷达学报博士论坛, 线上, 2021. [PDF](../_talks/第一届雷达学报博士论坛.pdf). </small>
+
 * <small>Generalized Scalable Neighborhood Component Analysis for Remote Sensing Image Characterization, *Proceeding of the IEEE International Geoscience and Remote Sensing Symposium* (**IGARSS**), in Brussels, Belgium, 2021. [PDF](https://jiankang1991.github.io/talks/IGARSS2021_GSNCA.pdf). </small>
 
 * <small>Robust Deep Metric Learning for Remote Sensing Images with Label Noise, *Proceeding of the IEEE International Geoscience and Remote Sensing Symposium* (**IGARSS**), in Brussels, Belgium, 2021. [PDF](https://jiankang1991.github.io/talks/IGARSS2021_RNSL.pdf). </small>
