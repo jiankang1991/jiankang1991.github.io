@@ -179,5 +179,6 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
   * <small>International Journal of Geographical Information Science</small>
   * <small>Engineering Optimization</small>
   * <small>Frontiers in Signal Processing</small>
+  * <small>Journal of Remote Sensing</small>
   * <small>雷达学报<small>
   * <small>武汉大学学报（信息科学版）<small>
