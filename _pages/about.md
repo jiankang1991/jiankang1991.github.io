@@ -20,6 +20,8 @@ Jian Kang (康健) is an Associate Professor with the School of Electronic and I
 Activities
 ======
 
+* [04/2022] Served as the **Leading Guest Editor** of IEEE JSTARS special issue: [Lightweight Deep Learning Models for Earth Observation](https://4d8xuv2577wggnmowfwzehpo-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/CFP_-Lightweight-Deep-Learning-Models-for-Earth-Observation.pdf)
+   
 * [07/2021] Served as the **Guest Editor** of MDPI Remote Sensing Special Issue: [Unsupervised and Supervised Image Classification in Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/unsupervised_image_classification).
 
 * [05/2021] Our IEEE TNNLS paper "Learning convolutional sparse coding on complex domain for interferometric phase restoration" has been selected as **ESI Highly Cited Paper**!
