@@ -44,6 +44,12 @@ br {
 <ul>
 
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [23] <b>J. Kang</b>, Z. Wang, R. Zhu, J. Xia, X. Sun, R. Fernandez-Beltran and A. Plaza, "DisOptNet: Distilling Semantic Knowledge from Optical Images for Weather-independent Building Segmentation," <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i> [<a href="https://ieeexplore.ieee.org/document/9750128" target="_blank">PDF</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [22] <b>J. Kang</b>, R. Fernandez-Beltran, S. Liu and A. J. Plaza, "Towards Tightness of Scalable Neighborhood Component Analysis for Remote Sensing Image Characterization, " <i>IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>)</i> [<a href="../files/SNCAM.pdf" target="_blank">PDF</a>]
 </span>
 </p>

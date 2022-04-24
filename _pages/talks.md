@@ -44,6 +44,8 @@ h1, h2, h3, h4, h5, h6 {
 {% endfor %} -->
 
 <br>
+* <small> 基于深度学习技术的遥感图像检索, 第三届IEEE地质、测绘与遥感国际学术会议(IEEE-ICGMRS), 舟山(线上), 2022. [PDF](../_talks/基于深度学习技术的遥感图像检索.pdf). </small>
+
 * <small> 少量观测样本下的多基线干涉SAR参数反演方法, 首届雷达学报博士论坛, 线上, 2021. [PDF](../_talks/第一届雷达学报博士论坛.pdf). </small>
 
 * <small>Generalized Scalable Neighborhood Component Analysis for Remote Sensing Image Characterization, *Proceeding of the IEEE International Geoscience and Remote Sensing Symposium* (**IGARSS**), in Brussels, Belgium, 2021. [PDF](https://jiankang1991.github.io/talks/IGARSS2021_GSNCA.pdf). </small>
