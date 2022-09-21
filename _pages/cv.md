@@ -158,6 +158,9 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
 
 <h2>Service and leadership</h2>
 
+* <small>Guest Editor of Frontiers in Remote Sensing Special Issue:[Advances in Deep Learning-Based Hyperspectral Data Processing and Applications](https://www.frontiersin.org/research-topics/45829/advances-in-deep-learning-based-hyperspectral-data-processing-and-applications)</small>
+* <small>Guest Editor of IEEE JSTARS special issue:[Remote Sensing Image Interpretation in Heterogeneous Scenarios](https://4d8xuv2577wggnmowfwzehpo-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/Call_for_Paper_Remote-Sensing-Image-Interpretation-in-Heterogeneous-Scenarios.pdf)</small>
+* <small>Leading Guest Editor of IEEE JSTARS special issue:[Lightweight Deep Learning Models for Earth Observation](https://4d8xuv2577wggnmowfwzehpo-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/CFP_-Lightweight-Deep-Learning-Models-for-Earth-Observation.pdf)</small>
 * <small>Guest Editor of MDPI Remote Sensing Special Issue:[Unsupervised and Supervised Image Classification in Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/unsupervised_image_classification)</small>
 * <small>Guest Editor of IEEE JSTARS Special Issue:[Deep Learning-based Methods for Modeling Semantic Relations among Remote Sensing Data](https://4d8xuv2577wggnmowfwzehpo-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/CFP-Deep-Learning-based-Methods-for-Modeling-Semantic-Relations-among-Remote-Sensing-Data.pdf)</small>
 * <small>Review Editor in Radar Signal Processing Section, [Frontiers in Signal Processing](https://www.frontiersin.org/).</small>
@@ -169,9 +172,13 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
   * <small>IEEE Transactions on Geoscience and Romote Sensing</small>
   * <small>ISPRS Journal of Photogrammetry and Remote Sensing</small>
   * <small>Pattern Recognition</small>
+  * <small>IEEE Transactions on Industrial Informatics</small>
+  * <small>IEEE Transactions on Artificial Intelligence</small>
+  * <small>IEEE Transactions on Computational Social Systems</small>
   * <small>International Journal of Applied Earth Observation</small>
   * <small>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</small>
   * <small>IEEE Geoscience and Remote Sensing Letters</small>
+  * <small>Journal of Computational Design and Engineering</small>
   * <small>IEEE Access</small>
   * <small>IEEE Sensors Journal</small>
   * <small>Sensors</small>
@@ -180,5 +187,7 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
   * <small>Engineering Optimization</small>
   * <small>Frontiers in Signal Processing</small>
   * <small>Journal of Remote Sensing</small>
-  * <small>雷达学报<small>
-  * <small>武汉大学学报（信息科学版）<small>
+  * <small>雷达学报</small>
+  * <small>武汉大学学报（信息科学版）</small>
+  * <small>遥感学报</small>
+  * <small>自动化学报</small>

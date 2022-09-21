@@ -20,6 +20,12 @@ Jian Kang (康健) is an Associate Professor with the School of Electronic and I
 Activities
 ======
 
+* [09/2022] Served as the **Guest Editor** of Frontiers in Remote Sensing Special Issue: [Weakly Supervised Learning for Remote Sensing Image Interpretation](https://www.frontiersin.org/research-topics/47418/weakly-supervised-learning-for-remote-sensing-image-interpretation).
+
+* [09/2022] Served as the **Guest Editor** of Frontiers in Remote Sensing Special Issue: [Advances in Deep Learning-Based Hyperspectral Data Processing and Applications](https://www.frontiersin.org/research-topics/45829/advances-in-deep-learning-based-hyperspectral-data-processing-and-applications).
+
+* [06/2022] Served as the **Guest Editor** of IEEE JSTARS Special Issue: [Remote Sensing Image Interpretation in Heterogeneous Scenarios](https://4d8xuv2577wggnmowfwzehpo-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/Call_for_Paper_Remote-Sensing-Image-Interpretation-in-Heterogeneous-Scenarios.pdf). 
+
 * [04/2022] Served as the **Leading Guest Editor** of IEEE JSTARS special issue: [Lightweight Deep Learning Models for Earth Observation](https://4d8xuv2577wggnmowfwzehpo-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/CFP_-Lightweight-Deep-Learning-Models-for-Earth-Observation.pdf)
    
 * [07/2021] Served as the **Guest Editor** of MDPI Remote Sensing Special Issue: [Unsupervised and Supervised Image Classification in Remote Sensing](https://www.mdpi.com/journal/remotesensing/special_issues/unsupervised_image_classification).
