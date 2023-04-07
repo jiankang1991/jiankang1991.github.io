@@ -183,6 +183,7 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
   * <small>IEEE Sensors Journal</small>
   * <small>Sensors</small>
   * <small>Remote Sensing</small>
+  * <small>Transactions on Multimedia Computing Communications and Applications</small>
   * <small>International Journal of Geographical Information Science</small>
   * <small>Engineering Optimization</small>
   * <small>Frontiers in Signal Processing</small>

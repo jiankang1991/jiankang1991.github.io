@@ -44,16 +44,35 @@ br {
 <ul>
 
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [28] <b>J. Kang</b>*, T. Ji, Z. Zhang, and R Fernandez-Beltran, "SAR Time Series Despeckling via Nonlocal Matrix Decomposition in Logarithm Domain," <i>Signal Processing (<b>SP</b>)</i> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168423001147?via%3Dihub" target="_blank">PDF</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [27] X. Ding, <b>J. Kang</b>*, Z. Zhang, Y. Huang, J. Liu, and N. Yokoya, "Coherence-Guided Complex Convolutional Sparse Coding for Interferometric Phase Restoration," <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i> [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9793723" target="_blank">PDF</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
+<span> [26] Z. Zhu, <b>J. Kang</b>*, T. Ji, Z. Zhang, and R Fernandez-Beltran, "SAR Time Series Despeckling via Nonlocal Total Variation Regularized Robust PCA," <i>IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>)</i> [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9793723" target="_blank">PDF</a>]
+</span>
+</p>
+
+<br>
+<p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [25] <b>J. Kang</b>, F Tong, X Ding, S Li, R Zhu, Y Huang, Y Xu, and R Fernandez-Beltran, "Decoding the Partial Pre-Trained Networks for Sea Ice Segmentation of 2021 Gaofen Challenge," <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</i> [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9793723" target="_blank">PDF</a>]
 </span>
 </p>
 
+<br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [24] J. Parajuli, R. Fernandez-Beltran, <b>J. Kang</b>, and F. Pla, "Attentional Dense Convolutional Neural Network for Water Body Extraction From Sentinel-2 Images," <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>JSTARS</b>)</i> [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9855876" target="_blank">PDF</a>]
 </span>
 </p>
 
-
+<br>
 <p class="big" style="text-indent: -1.6rem;margin-left: 0rem;">
 <span> [23] <b>J. Kang</b>, Z. Wang, R. Zhu, J. Xia, X. Sun, R. Fernandez-Beltran and A. Plaza, "DisOptNet: Distilling Semantic Knowledge from Optical Images for Weather-independent Building Segmentation," <i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i> [<a href="https://ieeexplore.ieee.org/document/9750128" target="_blank">PDF</a>]
 </span>
