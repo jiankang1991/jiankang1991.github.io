@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <br>
 
-* <small>第五届“中科星图杯”国际高分遥感图像解译大赛-海冰目标监测赛道亚军技术方案，厦门，2023. [PDF](../_talks/deepjoker%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf) </small>
+* <small>第五届“中科星图杯”国际高分遥感图像解译大赛-海冰目标监测赛道亚军技术方案，厦门，2023. [PDF](../_talks/deepjoker_zhongkexingtu.pdf) </small>
 
 * <small> 模态蒸馏下的SAR图像建筑物提取方法, 雷达学报上海同心学术论坛3期, 线上, 2022. [PDF](../_talks/模态蒸馏下的SAR图像建筑物提取方法.pdf). </small>
 

@@ -167,6 +167,7 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
 * <small>Guest Editor of MDPI Remote Sensing Special Issue: [Big Remotely Sensed Data](https://www.mdpi.com/journal/remotesensing/special_issues/big_remotely_sensed_data)</small>
 * <small>Guest Editor of MDPI Remote Sensing Special Issue: [Geospatial Intelligence in Remote Sensing: Scene Perception, Semantic Interpretation, and Sensor Fusion](https://www.mdpi.com/journal/remotesensing/special_issues/Geospatial_Intelligence)</small>
 * <small>Reviewer for the following journals or conferences:</small>
+  * <small>ACM MM 2023</small>
   * <small>IEEE Transactions on Neural Networks and Learning Systems</small>
   * <small>IEEE Geoscience and Romote Sensing Magazine</small>
   * <small>IEEE Transactions on Geoscience and Romote Sensing</small>
@@ -192,3 +193,5 @@ Zhen Ye, <b>Jian Kang*</b>, Jing Yao, Wenping Song, Sicong Liu, Xin Luo, Yusheng
   * <small>武汉大学学报（信息科学版）</small>
   * <small>遥感学报</small>
   * <small>自动化学报</small>
+  * <small>中国图象图形学报</small>
+  * <small>哈尔滨工程大学学报</small>
